@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/95e171d2-30bf-444a-ad75-fb64334345d6)# TSMC-Supply-Chain-Optimization-with-anyLogistix
-
 
 ## Overview
 
