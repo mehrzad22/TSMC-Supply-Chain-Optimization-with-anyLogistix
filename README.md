@@ -1,4 +1,4 @@
-# TSMC-Supply-Chain-Optimization-with-anyLogistix
+![image](https://github.com/user-attachments/assets/95e171d2-30bf-444a-ad75-fb64334345d6)# TSMC-Supply-Chain-Optimization-with-anyLogistix
 
 
 ## Overview
@@ -67,10 +67,14 @@ This project focuses on optimizing the distribution network of the Taiwan Semico
 - **CO2 Emission Penalty:** $0.02
 - **Selling Price:** $3.50
 
-## Requirements
+## The best routing
+![image](https://github.com/user-attachments/assets/144cedb0-8754-4bff-b2a7-469151c1a172)
 
-1. Calculate the net profit of the distribution chain.
-2. Report on warehouse construction status, transportation costs, and production costs.
-3. Report the number of products transported by each vehicle type.
-4. Determine the maximum time spent by vehicles on routes.
+![image](https://github.com/user-attachments/assets/316175ee-7b83-4c0a-9a87-8f009a339de1)
+
+![image](https://github.com/user-attachments/assets/149d84b3-87d1-4cbd-94b4-9ec04ba9b50a)
+
+
+
+
 
